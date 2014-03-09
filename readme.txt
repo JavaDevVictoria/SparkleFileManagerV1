@@ -1,7 +1,6 @@
 SparkleFileManager v1.0
-by Victoria of http://www.creamed-coconut.org
-Support Forums: http://www.creamed-coconut.org/forum
-Released 14 December 2004.
+by Victoria Holland of http://www.victoria-holland.info
+Originally released 14 December 2004.
 I would like to thank Web Designer Magazine (http://www.paragon.co.uk) for their tutorials which helped me to write this script.
 _______________________________________________________
 
@@ -45,7 +44,7 @@ $uploaddir = "/home/sparkle1/public_html/filemanager/files/";
 
 DEVELOPMENT:
 
-Anyone is welcome to take part in the development of this open-source script.  Development work shall take place in the Creamed Coconut forums at http://creamed-coconut.org/forum/index.php.  Suggestions and problems should also be aired there.  The script can be modified and distributed, as long as the readme file and link remains intact.
+Anyone is welcome to take part in the development of this open-source script.  The script can be modified and distributed, as long as the readme file and link remains intact.
 
 
  
